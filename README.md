@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:school: I'm a 4th year student at Hanoi University of Science Technology <br></br>
+:school: I'm a 5th year student at Hanoi University of Science Technology <br></br>
 ⚡ I'm a Backend Developer <br></br>
 😄 Pronouns: He/Him <br></br>
 💬 Contact me: quyhot1@gmail.com
